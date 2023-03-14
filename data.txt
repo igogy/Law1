@@ -1,0 +1,594 @@
+
+A common skyblock island. Skyblock is one of the most popular survival gamemodes. The idea is that you can create and expand your very own world infinitely with only minimal materials. It was originally created by Noobcrew, a veteran Minecraft player.
+
+You start on a small island floating in the middle of void with a few items and a single tree and you must learn to use and preserve your materials wisely as each one has a strategic use, (for example lava buckets), and to know the basics of Minecraft in order to complete challenges and to expand. It is normal to make beginner mistakes, sometimes requiring many restarts.
+
+There are countless Skyblock maps that can be found over various Minecraft community websites. You can also play online by choosing a Skyblock multiplayer server. Skyblock is widely known as being the most popular map and gamemode ever created on Minecraft while being highly popular for almost a decade, with gameplay and tutorials from just about every Youtuber including MrBeast, PewDiePie, CaptainSparklez and others.
+
+Contents
+
+1 Global Progression
+
+1.1 Your first day 1.2 Crops and Trees 1.3 Mob Farm 1.4 Crop Farm 1.5 Getting Water 1.6 Getting Villagers 1.7 Iron Farm
+
+1.8 Nether Skyblock
+
+1.8.1 Gold Farm 1.8.2 Fortress Farm
+
+2 Obtainable Items
+
+2.1 Overworld 2.2 With access to the Nether 2.3 With access to the End
+
+Global Progression Since there is no normal terrain to explore, setting up farms for resources is vital to game progression.
+
+Your first day Your first day will mainly depend on the skyblock map. If you have any grass or flowers, mine them and try to get at least one seed. Then, break the dirt on your island, leave at least a few grass blocks. Place the dirt around the tree so that it catches the dropped saplings. Chop down the tree and make a crafting table and wooden pickaxe. Catch the saplings and replant them. If you have a chest, open it and check the items. You usually start out with a few crops like sugar cane, melons, and pumpkins, some obsidian for a portal. Some maps also give you 2 turtle eggs, although turtles can spawn in a beach biome if the map has different biomes. There is also a bucket of lava and ice. To make a cobblestone generator, dig a one block deep T-shaped hole. Put a block in the center, water and lava on two others slots. Break the center block, get in the last slot, and break the cobblestone that forms. Make sure that the blocks that surround the lava are not flammable, or they will burn. Mine as much cobblestone as you can and make a full set of stone tools. Make a small shelter out of wood or cobblestone to prevent phantoms and other monsters.
+
+Crops and Trees If you start with crops, plant them around the water at your cobblestone generator. For your second and third day, you want to gather as much wood and cobblestone as you can. If you have an oak tree, you can get apples for your food. If you started with a melon, make melon seeds and plant them. If you get a melon block, you can break it for melons, which you can also eat.
+
+Mob Farm Hostile mob farms are very important because they are a source of bones, strings, redstone dust, iron ingots, potatoes and carrots, among many other drops. Building a mob farm is mandatory to get the crops to start crop farming. It is also an abundant source of rotten flesh, which you can now eat instead of apples. Multiple mob farms designs are explained in the page Tutorials/Mob farm, however, the vast majority of efficient designs need water or redstone circuits.
+
+If a spider spawns, killing it for string will allow you to craft a fishing rod, which can be used in the water from your cobblestone generator to obtain early-game fish as food.
+
+This hostile mob farm design shown by ilmango uses the mob pathfinding mechanics to lure them into a drop shaft, without the need of water or redstone circuits (note that spiders can't spawn in this farm) :
+
+Simple Pathfinding Mob Farm (view on YouTube)
+
+ 
+
+You should also make a temporary passive mob farm to get animals: to do that, use cobblestone to bridge away from your island, and hope a passive mob spawns.
+
+Crop Farm You can get wheat from the seeds at the start of your island. Along with melon and potato seeds. Killing skeletons will yield bones which can be converted to bonemeal, in order to quickly grow crops in the beginning. On higher versions of Minecraft, killing zombies will also drop carrots and potatoes, which you can farm as well as lure and breed pigs.
+
+Getting Water Water is extremely useful in a Skyblock world for many uses, and allows you to pillar down easily for building or to save you from death. It is also used to irrigate farmland.
+
+An ice block can be broken by hand to create flowing water.
+
+By using two sources of water, usually included in a chest or as ice blocks apart of the island, you can create an infinite water source. Dig a 2x2 hole 1 block deep, place two water sources in opposite corners, and the merging flows will create new water source blocks. Use a bucket on any of the now-four water blocks, and the removed water will be replaced by a new water source block when the flows merge. If the source blocks are too far apart, the merging flows will be too weak to create a source block, and so cannot become infinite.
+
+Another option is placing a cauldron below open sky and waiting for rain, which will very slowly fill the cauldron with water. When the cauldron is full, you can empty it with a bucket. With 2 bucketfuls of water, you can make an infinite water source. If you're playing on versions above 1.13, you can also use Bone Meal in water to spawn seagrass and more water sources, which you can then pick up with a bucket.
+
+Getting Villagers Getting villagers is crucial for your progression, because it is the only way to get emeralds, diamond tools and armor, and the only way to reliably get enchanted books. To get villagers, you will need to cure the rare zombie villagers, which sometimes spawn in mob farms or such.
+
+To cure zombie villagers, you will need to give them the Weakness status effect, and then use a golden apple on them. There are several ways of doing this: to give a zombie villager the Weakness status effect, you can use a witch (which is more tedious) or make a splash potion of Weakness (which requires to get in the Nether).
+
+To make a witch give Weakness to your zombie villager, you will need to get near the witch with it and have less than 8 health points. There will be then a 25% chance that the witch will throw a splash potion of Weakness. To make your own potion, you need to get a brewing stand, a fermented spider eye and some gunpowder. Note that you will need a brown mushroom to do that, which requires trading with a wandering trader, which itself requires an emerald. In turn, this method is highly impractical for the first villager conversion.
+
+To get the golden apples, you will need gold ingots and apples. Getting the apples is easy, but getting the gold is harder. You can either go to the Nether and kill zombified piglins, smelt golden armor dropped by monsters, or kill drowned, which sometimes drop gold ingots (Note how this will not work in the 1.17 update as a drowned will now drop copper ingots instead of gold ingots).
+
+It is strongly advised to build a villager breeder as soon as possible, in order to avoid doing this tedious process multiple times.
+
+Iron Farm Iron farms are very useful in a Skyblock world, because they allow way easier access to iron ingots. To make the smallest possible iron farm, you will need 3 villagers, 3 beds, and a zombie holding an item (to not de-spawn). Keep in mind that only a small percentage of zombies have this ability, so you will have to try several zombies.
+
+This video by Ray features at the beginning a simple iron farm design, which uses lava in the killing zone but could use another killing system that doesn't need some. The rates are about 320 iron ingots/hour.
+
+YouTube Video (view on YouTube)
+
+ 
+
+When your needs for iron get larger, you can just make multiples copies of the farm or build a larger design.
+
+Nether Skyblock Some Skyblock maps either start the player in The Nether, or give the player access to the Nether through some alternative method.
+
+There are 5 biomes in the Nether, and each of them has unique properties that are interesting in a skyblock context:
+
+Zombified Piglin farms in the Nether Wastes biome provide gold nuggets. You can make Hoglin farms in the Crimson Forest biome, which gives the player an alternative way to get raw porkchops. You can make mildly efficient Enderman farms in the Warped Forest biome, which provide ender pearls.
+
+Magma Cube in the Basalt Deltas biome provide magma cream. You can make Ghast farms in the Soul Sand Valley biome, which provides ghast tears and and an alternative way to get gunpowder.
+
+Gold Farm To make a gold farm, make a platform up to 23 blocks away (ensuring the platform is within the Nether Wastes biome) and make a roof out of slabs and wait. A little while later, you should see some zombified piglins spawning. Killing them can give the player gold nuggets, which then gives access to Bartering.
+
+Bartering will yield many useful resources (such as iron, Ender Pearls, leather, string, obsidian).
+
+Blackstone is an alternative to Cobblestone used to create Brewing Stands, Furnaces, and stone tools. While it isn't usually useful, it is extremely important if the player doesn't have a cobblestone generator.
+
+Crying Obsidian is used to create Respawn Anchors.
+
+Gravel can be used to create Coarse Dirt, which can be tilled into dirt allowing it to be duplicated, or to obtain Flint used to create Arrows, Flint and Steel and Fletching Tables.
+
+Nether Quartz is used to create Daylight Detectors, Observers and Redstone Comparators - useful for automation.
+
+Soul Sand is used to summon the Wither or to create Soul Torches and Soul Campfires, used to repel piglins and hoglins.
+
+Fortress Farm If structures are not disabled upon World Generation, Nether Fortresses can still spawn in the void, extending up from the Void. This gives access to a variety of items, such as Coal, Bones, Blaze Rods, Soul Sand, and (most importantly) Wither skeleton skulls. This allows the player to kill the Wither.
+
+Obtainable Items Overworld The most efficient way to get an item is written in bold.
+
+Ways of getting items requiring lava are written in italic.
+
+Crafting
+
+Trading
+
+Killing mobs
+
+Other
+
+Activator Rail Anvil Armor Stand Banner Pattern (Creeper, Flower) Banners Beds Beehive Beetroot Soup Blast Furnace Block of Emerald Block of Gold Block of Iron Block of Redstone Blue Ice Boats Bone Block Bone Meal Book and Quill Bookshelf Bread Brick Slab Brick Stairs Brick Wall Bricks Bucket Buttons Cake Campfire Candle Carrot on a Stick Carpets Cartography Table Cauldron Chain Chiseled Quartz Block Clock Cobblestone Slab Cobblestone Stairs Cobblestone Wall Colored Terracotta Compass Copper Block Crossbow Dark Prismarine Dark Prismarine Slab Dark Prismarine Stairs Detector Rail Doors Dried Kelp Block Dispenser Dripstone Block Dropper Empty Map Fermented Spider Eye Firework Rocket Firework Star Fishing Rod Flower Pot Furnace Glass Bottle Glass Pane Glistering Melon Slice Glowstone Golden Apple Golden Armor Golden Carrot Gold Ingot Gold Nugget Golden Tools Hay Bale Honey Block Honeycomb Block Hopper
+
+Iron Armor
+
+Iron Bars
+
+Iron Tools Item Frame Jack o'Lantern Ladder Lantern Lava Bucket Lead Leather Armor Leather Lectern Lever Lightning Rod Melon Seeds Melon Melon Slice Minecart Minecart with Chest Minecart with Furnace Minecart with Hopper Minecart with TNT Moss Carpet Mossy Cobblestone Mossy Cobblestone Slab Mossy Cobblestone Stairs Mossy Cobblestone Wall Mossy Stone Bricks Mossy Stone Brick Slab Mossy Stone Brick Stairs Mossy Stone Brick Wall Mushroom Stew Note Block Obsidian Packed Ice Painting Piston Planks Powered Rail Pumpkin Pie Pumpkin Seeds Pressure Plates Prismarine Prismarine Brick Slab Prismarine Brick Stairs Prismarine Bricks Prismarine Slab Prismarine Stairs Prismarine Wall Quartz Bricks Quartz Pillar Rabbit Stew Rail Red Sandstone Slab Red Sandstone Stairs Red Sandstone Wall Redstone Lamp Redstone Repeater Redstone Torch Scaffolding Sandstone Slab Sandstone Stairs Sandstone Wall Sea Lantern Shears Shield Slime Block Smithing Table Smooth Quartz Slab Smooth Quartz Stairs Smooth Red Sandstone Slab Smooth Red Sandstone Stairs Smooth Sandstone Slab Smooth Sandstone Stairs Smooth Stone Slab Smoker Snow Block Snow Stained Glass Stained Glass Panes Sticky Piston Stonecutter Stone Brick Slab Stone Brick Stairs Stone Brick Wall Stone Bricks Stone Slab Stone Stairs Stone Tools Stripped Wood
+
+Suspicious Stew (Except Wither) Target Torch Trapdoors Trapped Chest TNT Tripwire Hook Waxed Copper Wool Wood Wooden Slabs Wooden Stairs Wooden Tools
+
+From the armorer
+
+Bell Emerald Shield
+
+Chainmail Armor
+
+Diamond Armor
+
+Iron Armor
+
+From the butcher
+
+Cooked Chicken Cooked Porkchop Emerald Rabbit Stew
+
+From the cartographer
+
+Banners Emerald Empty Map Banner Pattern (Globe)
+
+From the farmer
+
+Apple Bread Cake Cookie Emerald Glistering Melon Slice Golden Carrot Pumpkin Pie Suspicious Stew
+
+From the fisherman
+
+Bucket of Cod Campfire Cooked Cod Cooked Salmon Emerald Fishing Rod
+
+From the leatherworker
+
+Emerald
+
+Leather Armor
+
+Leather Horse Armor Saddle
+
+From the librarian
+
+Bookshelf Clock Compass Emerald Enchanted Book Glass Lantern Name Tag
+
+From the mason
+
+Brick Block of Quartz Chiseled Stone Bricks Colored Terracotta Dripstone Block Emerald Glazed Terracotta Polished Andesite Polished Diorite Polished Granite Quartz Pillar
+
+From the shepherd
+
+Banners Beds Carpets Emerald Painting Shears Wool
+
+From the toolsmith
+
+Bell Diamond Tools Emerald Iron Axe, Pickaxe and Shovel
+
+Stone Tools
+
+From the wandering trader
+
+Beetroot Seeds Blue Ice Bucket of Pufferfish Bucket of Tropical Fish Cactus Coral Blocks Dyes Fern Flowers Glowstone Gunpowder Kelp Lily Pad Melon Seeds Moss Block Mushrooms Nautilus Shell Packed Ice Podzol Pointed Dripstone Pumpkin Seeds Pumpkin Red Sand Rooted Dirt Sand Saplings Sea Pickle Slimeball Small Dripleaf Sugar Cane Vines Wheat Seeds
+
+From the weaponsmith
+
+Bell Diamond Weapons Emerald Iron Weapons
+
+From cats String From cod
+
+Bone Meal Cooked Cod Raw Cod
+
+From cows
+
+Leather Raw Beef Steak
+
+From chickens
+
+Cooked Chicken Feather Raw Chicken
+
+From creepers
+
+Creeper Head Gunpowder Music Discs
+
+From dolphins
+
+Cooked Cod Raw Cod
+
+From drowned
+
+Copper Ingot Fishing Rod Nautilus Shell Trident Rotten Flesh
+
+From endermen
+
+Ender Pearl From evokers
+
+Emerald Totem of Undying
+
+From foxes
+
+Egg Emerald Feather Leather Rabbit Hide Rabbit's Foot Wheat
+
+From guardians
+
+Cooked Cod Cooked Salmon Prismarine Crystals Prismarine Shard Pufferfish Raw Cod Raw Salmon Tropical Fish
+
+From iron golems
+
+Iron Ingot Poppy
+
+From llamas and their variants
+
+Leather From pandas
+
+Bamboo From parrots
+
+Feather From phantoms
+
+Phantom Membrane From pigs
+
+Cooked Porkchop Raw Porkchop
+
+From pillagers
+
+Crossbow During Raids: Emerald
+
+From polar bears
+
+Raw Cod Raw Salmon
+
+From pufferfish
+
+Bone Meal Pufferfish
+
+From rabbits
+
+Cooked Rabbit Rabbit Hide Rabbit's Foot Raw Rabbit
+
+From raid captains
+
+Ominous Banner From ravagers
+
+Saddle From salmon
+
+Bone Meal Cooked Salmon Raw Salmon
+
+From sheep
+
+Cooked Mutton Raw Mutton Wool
+
+From skeletons, zombies and their variants
+
+Chainmail Armor
+
+Diamond Armor
+
+Golden Armor
+
+Iron Armor
+
+Leather Armor
+
+From skeletons and their variants
+
+Arrow Bone Bow
+
+From skeletons
+
+Skeleton Skull From skeleton horse
+
+Bone From strays
+
+Arrow of Slowness From slimes
+
+Slimeball From spiders and their variants
+
+String Spider Eye
+
+From squids
+
+Ink Sac From tropical fish
+
+Bone Meal Tropical Fish
+
+From turtles
+
+Bowl Seagrass
+
+From vindicators
+
+Emerald Iron Axe
+
+From witches
+
+Glass Bottle Glowstone Dust Gunpowder Potion of Fire Resistance Potion of Healing Potion of Swiftness Potion of Water Breathing Redstone Dust Spider Eye Sugar Stick
+
+From zombies and their variants
+
+Carrot Iron Ingot Iron Shovel Iron Sword Potato Rotten Flesh
+
+From zombies
+
+Zombie Head
+
+Breaking Blocks
+
+From Bookshelf Book
+
+From Campfire Charcoal
+
+From Clay Clay Ball
+
+From Coral Blocks Dead Coral Block
+
+From Mushroom Blocks Mushrooms
+
+Growing trees
+
+Apple Azalea Bee Nest Leaves Logs Podzol Rooted Dirt Saplings Stick
+
+Harvesting crops
+
+Bamboo Beetroot Beetroot Seeds Cactus Carrot Cocoa Beans Hanging Roots Kelp Melon Melon Seeds Melon Slice Moss Carpet Moss Block Poisonous Potato Potato Pumpkin Pumpkin Seeds Sea Pickle Sugar Cane Sweet Berries Wheat Wheat Seeds
+
+Smelting
+
+Baked Potato Brick Charcoal Cooked Chicken Cooked Cod Cooked Mutton Cooked Porkchop Cooked Rabbit Cooked Salmon Cracked Stone Bricks Dried Kelp Glass Glazed Terracotta Gold Nugget Green Dye Iron Nugget Lime Dye Smooth Quartz Block Smooth Red Sandstone Smooth Sandstone Smooth Stone Steak Stone Terracotta
+
+With access to the Nether
+
+Crafting
+
+Bartering
+
+Killing mobs
+
+Other
+
+Andesite Slab Andesite Stairs Andesite Wall Andesite Arrow Banner Pattern (Skull) Beacon Black Dye Blackstone Slab Blackstone Stairs Blackstone Wall Blaze Powder Block of Coal Block of Quartz Brewing Stand Blue Dye Chiseled Nether Bricks Chiseled Polished Blackstone Coarse Dirt Concrete Powder Daylight Detector Diorite Slab Diorite Stairs Diorite Wall Diorite End Crystal Ender Chest Eye of Ender Fire Charge Fletching Table Flint and Steel Furnace Granite Slab Granite Stairs Granite Wall Granite Lapis Lazuli Block Magma Block Magma Cream Minecart with Furnace Nether Brick Fence Nether Brick Slab Nether Brick Stairs Nether Brick Wall Nether Bricks Observer Polished Basalt Polished Andesite Polished Andesite Slab Polished Andesite Stairs Polished Blackstone Polished Blackstone Brick Slab Polished Blackstone Brick Stairs Polished Blackstone Brick Wall Polished Blackstone Bricks Polished Blackstone Slab Polished Blackstone Stairs Polished Blackstone Wall Polished Diorite Polished Diorite Slab Polished Diorite Stairs Polished Granite Polished Granite Slab Polished Granite Stairs Redstone Comparator Respawn Anchor Smoker Soul Campfire Soul Lantern Soul Torch
+
+Stone Tools Suspicious Stew (Wither)
+
+Arrow‌[Bedrock Edition only] Blackstone Crying Obsidian Enchanted Book with Soul Speed Ender Pearl Fire Charge Gravel Iron Boots with Soul Speed Iron Nugget Leather Nether Brick Nether Quartz Obsidian Potion of Fire Resistance Soul Sand Spectral Arrow‌[Java Edition only] Splash Potion of Fire Resistance String Water Bottle
+
+From blazes Blaze Rod From endermen
+
+Ender Pearl From ghasts
+
+Ghast Tear Gunpowder
+
+From hoglins
+
+Cooked Porkchop Leather Raw Porkchop
+
+From magma cubes
+
+Magma Cream From piglins
+
+Crossbow
+
+Golden Armor
+
+Golden Sword
+
+From striders
+
+String From wither skeletons
+
+Coal Stone Sword Wither Skeleton Skull
+
+From the wither
+
+Nether Star From mobs killed by the wither Wither Rose
+
+From zombified piglins
+
+Gold Ingot Gold Nugget Golden Sword
+
+From breaking Soul Campfires Soul Soil Brewing
+
+Mundane Potion Potion of Harming Potion of Slowness Potion of Weakness Thick Potion Splash Mundane Potion Splash Potion of Fire Resistance Splash Potion of Harming Splash Potion of Healing Splash Potion of Slowness Splash Potion of Swiftness Splash Potion of Water Breathing Splash Potion of Weakness Splash Thick Potion Splash Water Bottle
+
+Smelting
+
+Cracked Nether Bricks All Overworld smelting recipes
+
+Trading
+
+From the butcher
+
+Cooked Chicken Cooked Porkchop Emerald Rabbit Stew
+
+From the cleric
+
+Bottle o' Enchanting Emerald Ender Pearl Glowstone Lapis Lazuli Redstone Dust
+
+From the fletcher
+
+Arrow Bow Crossbow Emerald Flint Tipped Arrow
+
+With access to the End
+
+Crafting
+
+Killing mobs
+
+Brewing
+
+Other
+
+Arrow of Fire Resistance Arrow of Harming Arrow of Healing Arrow of Slowness Arrow of Swiftness Arrow of Water Breathing Arrow of Weakness End Stone Brick Slab End Stone Brick Stairs End Stone Brick Wall End Stone Bricks
+
+From ender dragon (indirect)
+
+Dragon Egg End Stone Torch
+
+From endermen
+
+Ender Pearl
+
+Lingering Mundane Potion Lingering Potion of Fire Resistance Lingering Potion of Harming Lingering Potion of Healing Lingering Potion of Slowness Lingering Potion of Swiftness Lingering Potion of Water Breathing Lingering Potion of Weakness Lingering Thick Potion Lingering Water Bottle
+
+Dragon's Breath Obsidian
+
+Tutorials
+
+Introductory
+
+Menu screen Downgrading Game terms
+
+Newcomer survival
+
+The first day/beginner's guide The second day The third day Hunger management Things not to do Simple tips and tricks Your first ten minutes
+
+Shelters
+
+Best biomes for homes Best building materials Building and construction Navigation Shelters Shelter types
+
+General
+
+Achievement guide Advancement guide Best enchantments guide Breaking bedrock Combat Complete main adventure Creating a village Dual wielding End survival Exploring caverns Gathering resources on peaceful difficulty Getting food quickly Headless pistons Hitboxes Horses Indestructible end crystals Light suppression Mapping Measuring distance Minecraft in education
+
+Mining
+
+Diamonds Fossils Ancient Debris
+
+Nether hub Nether portals Nether survival Organization Pillar jumping
+
+PvP PvP bases
+
+Spawn-proofing Summoning jockeys The Void Time-saving tips Thunderstorm survival Units of measure Update suppression
+
+Village mechanics Trading
+
+X-ray glitches
+
+Challenges
+
+Acquiring a conduit Curing a zombie villager
+
+Defeating temples
+
+Defeating a village raid Defeating a Nether fortress Defeating a bastion remnant Defeating a dungeon Defeating a pillager outpost Defeating a woodland mansion Defeating a monument Defeating an End city Defeating the Ender dragon Defeating the Wither Exploring an ancient city Obtaining every music disc
+
+Non-standardsurvival
+
+Adventure survival Half hearted hardcore Hardcore mode Surviving in a single area indefinitely Infinite desert survival Island survival Manhunt Nomadic experience Skywars survival Superflat survival Flat survival Ultra hardcore survival
+
+Challenge maps
+
+Beating a challenge map Creating a challenge map
+
+Constructions
+
+Adding beauty to constructions Airlock Architectural terms Building a cruise ship Building a metropolis Building a rollercoaster Building safe homes Building water features Color palette Creating shapes Defense Desert shelter Elevators Endless circling pool Furniture Glazed terracotta patterns Making nice floors Pixel art Ranches
+
+Roof types
+
+Curved roofs Roof construction guidelines Roof decorations
+
+Secret door Settlement guide Underwater home Walls and buttresses Water gate Water-powered boat transportation
+
+Farming
+
+Blocks and items
+
+Amethyst Armor Azalea Bamboo Basalt Bedrock Blaze rod Bone meal Cactus Chorus fruit
+
+Clay and mud
+
+Cobblestone Cocoa bean Copper
+
+Crops (Beetroot, Carrot, Potato, Wheat)
+
+Dirt
+
+Dragon's breath
+
+Dripstone Egg Fern Fish Flower Froglight Glow berries Glow ink sac Glow lichen Goat horn Gold Hanging roots Honey Ice Iron Kelp Lava Meat Moss block Mushroom Music disc Nautilus shell Nether growth Nether vine Nether wart Obsidian Powder snow
+
+Pumpkin, Melon
+
+Rooted dirt Sculk growths Scute Seagrass Sea pickle Snow Soul soil Sugar cane Sweet berries Tree Trident Vine Villager trading hall Wither rose Wool Duplication
+
+Mobs
+
+Mob farming Mob grinding Monster spawner traps Allay Animals Axolotl Blaze Cat Cave spider Creeper Drowned Ender dragon Enderman Frog Goat Guardian Hoglin Iron golem Magma cube Phantom Piglin bartering farm Raid Shulker Slime Squid Turtle Villager Wandering trader Warden Witch Wither Wither skeleton Zombie Zombie villager Zombified piglin
+
+OP farms
+
+End of light mob farms
+
+Enchantingand smelting
+
+Enchantment mechanics Anvil mechanics Automatic smelting Manual smelting
+
+Blockbreaking
+
+Blast chamber Wither cage
+
+Mechanisms
+
+Basic redstone
+
+Automatic respawn anchor recharger Basic logic gates Combination locks Command block Flying machines Hopper Item sorting Item transportation Mechanisms Observer stabilizer Randomizers Redstone music Redstone tips Rube Goldberg machine Shulker box storage Villager trading hall
+
+Detectors
+
+Block update detector Comparator update detector Daylight sensor Day night detector
+
+Minecarts
+
+Train station
+
+Minecarts
+
+Storage Storage system
+
+Traps
+
+Snow golems TNT cannons Trapdoor uses Trap design Traps
+
+Pistons
+
+Piston uses Piston circuits Quasi-connectivity Zero-ticking Instant repeaters
+
+Advancedredstone
+
+Advanced redstone circuits Arithmetic logic Calculator Command stats Hourly clock Morse code Printer Redstone computers Redstone telegraph
+
+Servers
+
+Playing on servers Multiplayer Survival Spawn jail Griefing prevention Joining a LAN world with alternate accounts
+
+Server setup
+
+Setting up a server Server startup script FreeBSD startup script OpenBSD startup script Ubuntu startup script Setting up a Hamachi server Setting up a Minecraft Forge server Setting up a Spigot server Ramdisk enabled server
+
+Technical
+
+Improving frame rate
+
+Minecraft help FAQ (IRC channel) Update Java
+
+Maps
+
+Custom maps Map downloads Command NBT tags Falling blocks Updating old terrain using MCEdit
+
+Resource packs
+
+Creating a resource pack Loading a resource pack Sound directory
+
+Data packs
+
+Creating a data pack Installing a data pack
+
+CreatingMinecraft media
+
+Creating videos Livestreaming
+
+Game installation
+
+Installing snapshots Joining and leaving the Bedrock Edition beta program How to get a crash report Installing Forge mods Custom Minecraft directory Playing and saving Minecraft on a thumb drive Playing and saving Minecraft on a thumb drive with the old launcher Recover corrupted saved world data Run Minecraft through Google Drive Save game data to Dropbox (world data only) Saved data Dropbox guide
+
+Outdated
+
+Building micro shelters Custom texture packs Door-based iron golem farming Far Lands How to get a crash report Installing mods Man-made lake Managing slimes in superflat mode Minecart booster Potion farming Repeater reboot system Survival with no enabled data packs Update LWJGL Update Minecraft Village chaining Water ladder Water tram
